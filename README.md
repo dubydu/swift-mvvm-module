@@ -4,7 +4,7 @@ Do you ever get depressed when you have to go through the same processes over an
 Okay, Let's try something new to make your working time more productive.
 
 ### [Custom Your Own Template](#custom-your-own-template)
-All you have to do is create your expected format file inside the .template folder. For example:
+All you have to do is create your expected format file inside the .xctemplate folder. For example:
 `___FILEBASENAME___ViewController.swift`
 ````
 import UIKit
